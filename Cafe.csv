@@ -47,4 +47,3 @@ SKU,Item_name,Quantity,Reorder_point,unit_Cost,Price,Vendor_id,Expiration_date,l
 6827531,Coconut milk,16,14,$5.15 ,$13.59 ,20,14-Aug,5,
 2222017,Condensed milk,51,15,$3.46 ,$8.45 ,21,9-Sep,2,
 9537604,Evaporated milk,26,18,$2.80 ,$6.79 ,22,7-Oct,1,
-1520984,Half-and-half,87,19,$7.99 ,$15.99 ,23,13-Nov,4,
