@@ -48,5 +48,3 @@ SKU,Item_name,Quantity,Reorder_point,unit_Cost,Price,Vendor_id,Expiration_date,l
 2222017,Condensed milk,51,15,$3.46 ,$8.45 ,21,9-Sep,2,
 9537604,Evaporated milk,26,18,$2.80 ,$6.79 ,22,7-Oct,1,
 1520984,Half-and-half,87,19,$7.99 ,$15.99 ,23,13-Nov,4,
-5769865,Oat milk,13,14,$4.47 ,$9.47 ,7,7-Nov,3,
-,,,,,,,,,
